@@ -71,6 +71,8 @@ Then open the URL shown in your terminal (usually http://localhost:5173
 ).
 Boom. You're in. ⚡
 
+---
+
 🧪 How to Use
 
 🖊️ Write a post:
@@ -80,6 +82,8 @@ Click the create button and add your title & content.
 Use the remove option next to any post.
 
 🎩 Simple. Elegant. No backend required.
+
+--- 
 
 🚧 Roadmap (Future Upgrades)
 
