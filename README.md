@@ -53,6 +53,7 @@ This project is easy to customize, easy to extend, and looks great from the get-
 
 Get the project running locally in **less than 30 seconds** ⏱️
 
+
 ```bash
 # 1️⃣ Clone this repo
 git clone https://github.com/Bhupander02/BlogPostApplication.git
@@ -70,6 +71,7 @@ Then open the URL shown in your terminal (usually http://localhost:5173
 
 ).
 Boom. You're in. ⚡
+```
 
 ---
 
@@ -108,6 +110,7 @@ Commit your changes
 
 Open a pull request
 
+--- 
 📜 License
 
 This project is open-source and free to use.
