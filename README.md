@@ -42,26 +42,48 @@ Prevents UI flicker during authentication checks
 
 🧠 Project Architecture
 src/
+
 ├── appwrite/
+
 │ └── auth.js
+
 ├── components/
+
 │ ├── AuthLayout.jsx
+
 │ ├── Header.jsx
+
 │ ├── Footer.jsx
+
 │ └── Login.jsx
+
 ├── pages/
+
 │ ├── Home.jsx
+
 │ ├── Signup.jsx
+
 │ ├── AddPost.jsx
+
 │ ├── EditPost.jsx
+
 │ ├── Allposts.jsx
+
 │ └── Post.jsx
+
 ├── store/
+
 │ ├── authSlice.js
+
 │ └── store.js
+
 ├── App.jsx
+
 ├── main.jsx
+
 └── index.css
+
+#--
 
 🛠️ Tech Stack
 Layer Technology
